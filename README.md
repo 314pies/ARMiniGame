@@ -1,2 +1,2 @@
 # ARMiniGame
-AR mini game
+Will add more details later.
