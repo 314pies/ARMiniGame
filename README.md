@@ -1,6 +1,6 @@
 # ARMiniGame
 
-An interesting Android AR app demo.  
+A fun AR demo project using Vuforia SDK and  Unity3D.
 //Readme are still under contruction, will be completed soon(9/18/2020)  
 AR Minigame Demo: https://youtu.be/OeBK2Omlf2k
 
